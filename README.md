@@ -1,1 +1,1 @@
-[点击这里开玩](807573515.github.io/backgammon/index.html)
+[点击这里开玩](https://807573515.github.io/backgammon/)
